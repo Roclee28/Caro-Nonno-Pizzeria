@@ -1,4 +1,4 @@
-# Pizza Margherita
+# Pizza Margherita 2
 
 **Ingredients:**
 - Tomato sauce
