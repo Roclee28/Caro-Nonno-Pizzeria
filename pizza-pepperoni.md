@@ -1,4 +1,4 @@
-# Pepperoni Pizza 2
+# Pepperoni Pizza
 
 **Ingredients:**
 - Tomato sauce
